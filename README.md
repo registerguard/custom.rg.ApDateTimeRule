@@ -1,6 +1,6 @@
 ## About:
 
-AP formatted date/time RULE for DTI's Content Publisher system.
+Associated Press formatted date/time RULE for DTI's Content Publisher system.
 
 More information about the AP style guidelines:
 
